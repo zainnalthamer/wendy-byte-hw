@@ -10,6 +10,7 @@ body {
     border: 0.3125em solid #777777;
     background-color: #444444;
     padding-bottom: 2em;
+    overflow: hidden;
 }
 
 h1 {
